@@ -7,7 +7,8 @@ The notebook focuses on:
 # Exploratory Data Analysis (EDA):
 To understand the distribution and characteristics of heartbeat classes.
 
-# Preprocessing: Preparing the data for model training, such as label encoding and feature scaling.
+# Preprocessing: 
+Preparing the data for model training, such as label encoding and feature scaling.
 
 # Deep Learning Models:
 State files for attention, LSTM, and CNN models are referenced, suggesting their use for training/testing the ECG data.
